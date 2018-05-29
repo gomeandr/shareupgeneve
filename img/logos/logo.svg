@@ -1,0 +1,33 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-style="italic" style="cursor: move;" transform="rotate(0.182053, 193.802, 161.459) matrix(2.07799, 0, 0, 2.51684, -451.295, -205.319)" xml:space="preserve" text-anchor="start" font-family="'Shadows Into Light', serif" font-size="24" id="svg_2" y="299.412265" x="289.369485" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Genève</text>
+  <text transform="rotate(0.182053, 205.931, 149.982) matrix(1.49245, 0, 0, 2.02333, -110.629, -197.179)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="50" id="svg_4" y="185.083168" x="142.644872" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Share</text>
+  <path d="m163.5,147.450089l116,70"/>
+  <path d="m136.5,121.450089l116,70"/>
+  <path d="m136.5,121.450089l116,70"/>
+  <path d="m77.5,114.450089l116,70"/>
+  <path d="m77.5,139.450089l116,70"/>
+  <path d="m77.5,139.450089l116,70"/>
+  <path transform="rotate(0.182053, 193.802, 161.459) matrix(2.07799, 0, 0, 2.51684, -451.295, -205.319)" d="m77.5,139.450089l116,70"/>
+  <path d="m163.5,147.450089l116,70"/>
+  <path d="m136.5,121.450089l116,70"/>
+  <path d="m136.5,121.450089l116,70"/>
+  <path d="m77.5,114.450089l116,70"/>
+  <path d="m77.5,139.450089l116,70"/>
+  <path d="m77.5,139.450089l116,70"/>
+  <path transform="rotate(0.182053, 193.802, 161.459) matrix(2.07799, 0, 0, 2.51684, -451.295, -205.319)" d="m77.5,139.450089l116,70"/>
+  <text transform="rotate(0.182053, 366.884, 148.238) matrix(0.746031, 0, 0, 1.07132, 152.402, 80.8265)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="100" id="svg_8" y="90.096528" x="223.583648" stroke-width="0" stroke="#77b5fe" fill="#77b5fe">Up</text>
+  <text transform="matrix(1, 0, 0, 1.07365, 0, -3.57754)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="100" id="svg_9" y="170.493252" x="426.5" stroke-width="0" stroke="#77b5fe" fill="#000000">!</text>
+  <text transform="matrix(0.443317, 0, 0, 0.32885, 208.878, 182.857)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="100" id="svg_10" y="131.373057" x="6.930137" stroke-width="0" stroke="#77b5fe" fill="#000000">Genève</text>
+  <path id="svg_11" d="m428.5,158.433334" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#77b5fe" fill="#000000"/>
+ </g>
+</svg>
